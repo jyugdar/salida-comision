@@ -1,0 +1,1562 @@
+[
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4601,
+    "Descripcion": "�BERLINGO FURG�N HDI 92 BUSINESS MIXTO AM20",
+    "Legajo": "23-CBF-21",
+    "Dominio": "AE-721-HE",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2773,
+    "Descripcion": "�IVECO CAMION",
+    "Legajo": "03-IN-07",
+    "Dominio": "GVP-435",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1718,
+    "Descripcion": "�camioneta chevrolet s10",
+    "Legajo": "1 CAD 12",
+    "Dominio": "LAG-629",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1709,
+    "Descripcion": "�camioneta ford ranger",
+    "Legajo": "1 FAD 13",
+    "Dominio": "MSC-420",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2955,
+    "Descripcion": "�ford ranger",
+    "Legajo": "1 FAD 209",
+    "Dominio": "IFN-116",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2822,
+    "Descripcion": "�scania",
+    "Legajo": "1 S N 09",
+    "Dominio": "IKU-841",
+    "Pasajeros": 2,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1823,
+    "Descripcion": "�Camioneta DC chevrolet s10 - transp. balanza",
+    "Legajo": "1-CAD-07",
+    "Dominio": "GFW-708",
+    "Pasajeros": 100,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2628,
+    "Descripcion": "�camioneta",
+    "Legajo": "1-CAD-13",
+    "Dominio": "NOL-845",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3547,
+    "Descripcion": "�ford ranger 4 x 4",
+    "Legajo": "1-FAD-2-21",
+    "Dominio": "AE-721-HT",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2960,
+    "Descripcion": "�camion iveco",
+    "Legajo": "1-INO-18",
+    "Dominio": "AD-230-JV",
+    "Pasajeros": 15,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3896,
+    "Descripcion": "�MINIBUS-Mercedes Benz Sprinter 2-2011",
+    "Legajo": "1-MBO-11",
+    "Dominio": "JNT-400",
+    "Pasajeros": 19,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1708,
+    "Descripcion": "�camioneta furgon mitsubishi l200",
+    "Legajo": "1-MM-97",
+    "Dominio": "BOO-682",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1618,
+    "Descripcion": "�Peugeot 307 xt 2.0 premium",
+    "Legajo": "1-P-08",
+    "Dominio": "HHA-697",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1612,
+    "Descripcion": "�Partner patagonia 1.6 hdi",
+    "Legajo": "1-PAU-12",
+    "Dominio": "LZL-490",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2576,
+    "Descripcion": "�RENAULT CLIO",
+    "Legajo": "1-R-08",
+    "Dominio": "GWW-538",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1623,
+    "Descripcion": "�toyota corolla xei 2.0dt",
+    "Legajo": "1-TC-07",
+    "Dominio": "GIZ-190",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1614,
+    "Descripcion": "�volskswagen gol 1.4 power plus",
+    "Legajo": "1-VWGL-14",
+    "Dominio": "NUS-509",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3344,
+    "Descripcion": "�peugeot 207",
+    "Legajo": "10-P-10",
+    "Dominio": "IJD-427",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4316,
+    "Descripcion": "�PARTNER PEUGEOT",
+    "Legajo": "10-PP-23",
+    "Dominio": "AG-006-YJ",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1713,
+    "Descripcion": "�CAMIONETA FORD F 100",
+    "Legajo": "106 FA 87",
+    "Dominio": "UVO-920",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1716,
+    "Descripcion": "�camioneta ford ranger",
+    "Legajo": "11 FAD 08",
+    "Dominio": "HHS-735",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1717,
+    "Descripcion": "�camioneta ford ranger",
+    "Legajo": "12 FAD 08",
+    "Dominio": "HHS-742",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3829,
+    "Descripcion": "�CAMIONETA FORD -RANGER DC 4X2 XLX 3.2L d",
+    "Legajo": "12-FAD-22",
+    "Dominio": "AF-176-SI",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3738,
+    "Descripcion": "�camion iveco tector",
+    "Legajo": "12-INA-21",
+    "Dominio": "AE-942-BO",
+    "Pasajeros": 3,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1668,
+    "Descripcion": "�semirremolque scania t-112-e",
+    "Legajo": "12-SN-88",
+    "Dominio": "WUM-869",
+    "Pasajeros": 3,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3007,
+    "Descripcion": "�FURGON",
+    "Legajo": "13 FNS 18",
+    "Dominio": "AD-321-BM",
+    "Pasajeros": 3,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1712,
+    "Descripcion": "�CAMIONETA FORD RANGER",
+    "Legajo": "14 FAD 08",
+    "Dominio": "HDD-267",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3562,
+    "Descripcion": "�CITROEN - BERLINGO HDI 92",
+    "Legajo": "14-CBF-21",
+    "Dominio": "AE-846-IJ",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1702,
+    "Descripcion": "�ford f7000",
+    "Legajo": "14-FN-88",
+    "Dominio": "WUT-631",
+    "Pasajeros": 2,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3483,
+    "Descripcion": "�TOYOTA HILLUX",
+    "Legajo": "14-TAD-13",
+    "Dominio": "MJM-815",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1698,
+    "Descripcion": "�ford ranger 4x2 xl plus",
+    "Legajo": "15-FAD-09",
+    "Dominio": "ICJ-602",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3936,
+    "Descripcion": "�ami�n Furgon DC-Iveco Daily 55-17-2022",
+    "Legajo": "15-IN-22",
+    "Dominio": "AF-161-PE",
+    "Pasajeros": 7,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3574,
+    "Descripcion": "�camion iveco",
+    "Legajo": "15-INDV-21",
+    "Dominio": "AE-846-MS",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2894,
+    "Descripcion": "�camion ford cargo 1723",
+    "Legajo": "16-FNM-18",
+    "Dominio": "AD-167-VR",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3937,
+    "Descripcion": "�ami�n Furgon DC-Iveco Daily 55-17-2022",
+    "Legajo": "16-IN-22",
+    "Dominio": "AF-161-PF",
+    "Pasajeros": 7,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1654,
+    "Descripcion": "�scania t-112-e",
+    "Legajo": "16-SN-87",
+    "Dominio": "UPS-214",
+    "Pasajeros": 3,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4270,
+    "Descripcion": "�FORD RANGER DC 4X2",
+    "Legajo": "17-FAD-21",
+    "Dominio": "AE-941-YR",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1700,
+    "Descripcion": "�ford f7000",
+    "Legajo": "17-FN-87",
+    "Dominio": "WUT-628",
+    "Pasajeros": 2,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3923,
+    "Descripcion": "�Cami�n c/caja Blanco c/Baliza -Daily 55-170",
+    "Legajo": "17-IN-22",
+    "Dominio": "AF-161-PG",
+    "Pasajeros": 7,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3591,
+    "Descripcion": "�PICK-UP FORD RANGER DC 4X2 XLS 3.2L D",
+    "Legajo": "18-FAD-21",
+    "Dominio": "AE-941-YU",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3928,
+    "Descripcion": "�CAMI�N iveco -blanco c/balizas-modelo 2022",
+    "Legajo": "18-IN-22",
+    "Dominio": "AF-161-PH",
+    "Pasajeros": 7,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3938,
+    "Descripcion": "�Camioneta d c Nissan Frontier CD 4X2 2022",
+    "Legajo": "19-NAD-22",
+    "Dominio": "AF-261-PE",
+    "Pasajeros": 15,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1948,
+    "Descripcion": "�camioneta chevrolet",
+    "Legajo": "2 CAD 13",
+    "Dominio": "LZL-503",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2987,
+    "Descripcion": "�camioneta iveco daily",
+    "Legajo": "2 INO 18",
+    "Dominio": "AD-230-JU",
+    "Pasajeros": 15,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1647,
+    "Descripcion": "�citroen c4 2.0 hdix",
+    "Legajo": "2-CC-08",
+    "Dominio": "HJA-190",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1916,
+    "Descripcion": "�Camioneta ford f100",
+    "Legajo": "2-FA-83",
+    "Dominio": "WVL-912",
+    "Pasajeros": 3,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3544,
+    "Descripcion": "�FOR RANGER 4 X 4",
+    "Legajo": "2-FAD-2-21",
+    "Dominio": "AE-721-HV",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 691,
+    "Descripcion": "�iveco camion",
+    "Legajo": "2-INF-04",
+    "Dominio": "ENH-015",
+    "Pasajeros": 3,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4100,
+    "Descripcion": "�NISSAN FRONTIER - PICK UP - BLANCA CON BALIZA",
+    "Legajo": "2-NAD-22",
+    "Dominio": "AF-176-QB",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1619,
+    "Descripcion": "�Peugeot 307 xt 2.0 hdi 5p. 110 cv",
+    "Legajo": "2-P-08",
+    "Dominio": "HHA-696",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1793,
+    "Descripcion": "�camioneta pick up toyota hilux",
+    "Legajo": "2-TAD-07",
+    "Dominio": "GSW-481",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1615,
+    "Descripcion": "�volkswagen gol 1.4 power plus",
+    "Legajo": "2-VWGL-14",
+    "Dominio": "NVT-090",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1705,
+    "Descripcion": "�ford f7000",
+    "Legajo": "21-FN-84",
+    "Dominio": "WWL-602",
+    "Pasajeros": 2,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3797,
+    "Descripcion": "� IVECO-CAMION SEMI - CABINA COLOR BLANCO",
+    "Legajo": "25-IN-21",
+    "Dominio": "AF-104-OR",
+    "Pasajeros": 2,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1714,
+    "Descripcion": "�CAMIONETA FORD F100",
+    "Legajo": "26 FA 87",
+    "Dominio": "UVO-797",
+    "Pasajeros": 4,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1653,
+    "Descripcion": "�Camion mercedes benz",
+    "Legajo": "27-MBN-87",
+    "Dominio": "UVO-720",
+    "Pasajeros": 3,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3237,
+    "Descripcion": "�c4 sedan 4 puertas",
+    "Legajo": "3-CC-11",
+    "Dominio": "JSO-458",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1798,
+    "Descripcion": "�Ford ranger dc",
+    "Legajo": "3-FAD-07",
+    "Dominio": "GIB-567",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1620,
+    "Descripcion": "�Peugeot 307 xt 2.0 hdi 5p. 90 cv",
+    "Legajo": "3-P-08",
+    "Dominio": "HPH-705",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1621,
+    "Descripcion": "�Peugeot 307 xt 2.0 hdi 5p. 90 cv",
+    "Legajo": "3-P-08",
+    "Dominio": "HPH-705",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1613,
+    "Descripcion": "�renault kangoo pack 1.9",
+    "Legajo": "3-RAD-07",
+    "Dominio": "GBS-181",
+    "Pasajeros": 4,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2168,
+    "Descripcion": "�camion volkswagen",
+    "Legajo": "3-VWN-15",
+    "Dominio": "OUK-878",
+    "Pasajeros": 2,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1704,
+    "Descripcion": "�ford f7000",
+    "Legajo": "30-FN-86",
+    "Dominio": "UPS-338",
+    "Pasajeros": 2,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1649,
+    "Descripcion": "�Camion ford cargo 1722e",
+    "Legajo": "32-FN-09",
+    "Dominio": "IHL-319",
+    "Pasajeros": 3,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1707,
+    "Descripcion": "�camioneta renault traffic t310 furgon",
+    "Legajo": "33-RTD-87",
+    "Dominio": "UPS-341",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1648,
+    "Descripcion": "�Camion ford cargo 1722e",
+    "Legajo": "36-FN-09",
+    "Dominio": "IHL-315",
+    "Pasajeros": 3,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1710,
+    "Descripcion": "�camioneta ford ranger",
+    "Legajo": "4 FAD 07",
+    "Dominio": "GIB-568",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3066,
+    "Descripcion": "�mercedeZ benz sprinter",
+    "Legajo": "4 MBF 18",
+    "Dominio": "AC-363-GY",
+    "Pasajeros": 3,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2536,
+    "Descripcion": "�cAMIONETA",
+    "Legajo": "4-CAD-09",
+    "Dominio": "HHA-716",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1646,
+    "Descripcion": "�citroen c4 2.0 hdix",
+    "Legajo": "4-CC-08",
+    "Dominio": "HLA-583",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1665,
+    "Descripcion": "�carreton iveco 45e32t",
+    "Legajo": "4-INC-10",
+    "Dominio": "IMG-479",
+    "Pasajeros": 2,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1622,
+    "Descripcion": "�Peugeot 307 xt 2.0 hdi 5p 110 cv",
+    "Legajo": "4-P-08",
+    "Dominio": "HPH-704",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1703,
+    "Descripcion": "�ford f7000",
+    "Legajo": "41-FN-84",
+    "Dominio": "WYU-763",
+    "Pasajeros": 2,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3363,
+    "Descripcion": "�FIAT 446",
+    "Legajo": "42-A-8-ZF",
+    "Dominio": "PAR-012",
+    "Pasajeros": 1,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1652,
+    "Descripcion": "�Camion mercedes benz",
+    "Legajo": "44-MBN-87",
+    "Dominio": "UKH-271",
+    "Pasajeros": 3,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1651,
+    "Descripcion": "�Camion FURGON",
+    "Legajo": "45 MBN 87",
+    "Dominio": "VCW-818",
+    "Pasajeros": 19,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2689,
+    "Descripcion": "�ford ranger",
+    "Legajo": "5 FAD 04",
+    "Dominio": "ESP-869",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3239,
+    "Descripcion": "�chevrolet s10",
+    "Legajo": "6-CAD-11",
+    "Dominio": "JSO-438",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3745,
+    "Descripcion": "�PICK-UP FORD RANGER DC 4X2 XL 2.2L D",
+    "Legajo": "6-FAD-17",
+    "Dominio": "AB-047-YJ",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1616,
+    "Descripcion": "�Peugeot 307 xs 2.0 hdi 5p",
+    "Legajo": "6-P-08",
+    "Dominio": "HHW-916",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1650,
+    "Descripcion": "�Camion ford cargo 1722e",
+    "Legajo": "62-FN-09",
+    "Dominio": "ITP-384",
+    "Pasajeros": 3,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3705,
+    "Descripcion": "�ford ranger",
+    "Legajo": "64-FAD-21",
+    "Dominio": "AE-994-MR",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1706,
+    "Descripcion": "�camioneta renault traffic",
+    "Legajo": "64-RTD-87",
+    "Dominio": "VCW-819",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3935,
+    "Descripcion": "�Camioneta d.C -Ford Ranger DC 4x2 X-2021",
+    "Legajo": "68-FAD-21",
+    "Dominio": "AF-104-LV",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1715,
+    "Descripcion": "�CAMIONETA FORD RANGER",
+    "Legajo": "7 FAD 08",
+    "Dominio": "HPH-719",
+    "Pasajeros": 4,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2405,
+    "Descripcion": "�CAMIONETA",
+    "Legajo": "7-FAD-08",
+    "Dominio": "HPH-709",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3599,
+    "Descripcion": "�camion iveco",
+    "Legajo": "7-INDV-21",
+    "Dominio": "AE-846-LT",
+    "Pasajeros": 15,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3791,
+    "Descripcion": "�Nissan -Frontier- Pick - Up-Blanca con Baliza",
+    "Legajo": "7-NAD-22",
+    "Dominio": "AF-176-PU",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2514,
+    "Descripcion": "�PEUGEOT 307 XS",
+    "Legajo": "7-P-08",
+    "Dominio": "HCI-301",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2315,
+    "Descripcion": "�f100",
+    "Legajo": "75 FA 87",
+    "Dominio": "UPS-215",
+    "Pasajeros": 3,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1701,
+    "Descripcion": "�ford f7000",
+    "Legajo": "88-FN-86",
+    "Dominio": "WYU-762",
+    "Pasajeros": 2,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4379,
+    "Descripcion": "�MERCEDES BENZ SPRINTER 516 CDI MINIBUS 19+1",
+    "Legajo": "9-MBO-23",
+    "Dominio": "AG-097-XX",
+    "Pasajeros": 19,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4177,
+    "Descripcion": "�PEUGEOT 207 COMPACT XT HDI",
+    "Legajo": "9-P-10",
+    "Dominio": "ISB-131",
+    "Pasajeros": 4,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1670,
+    "Descripcion": "�ford f7000",
+    "Legajo": "97-FN-86",
+    "Dominio": "WWL-601",
+    "Pasajeros": 2,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3018,
+    "Descripcion": "�camioneta ford ranger",
+    "Legajo": "AA0010X",
+    "Dominio": "AA-001-0X",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2555,
+    "Descripcion": "�Peugeot partner furgon mod. 2016",
+    "Legajo": "AA226ZR",
+    "Dominio": "AA-226-ZR",
+    "Pasajeros": 2,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3701,
+    "Descripcion": "�toyota hilux 4x4 doble cabina",
+    "Legajo": "AA288QQ",
+    "Dominio": "AA-288-QQ",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3411,
+    "Descripcion": "�ford ranger 4x4",
+    "Legajo": "AA300SQ",
+    "Dominio": "AA-300-SQ",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2577,
+    "Descripcion": "�CITROEN C4",
+    "Legajo": "AA300SS",
+    "Dominio": "AA-300-SS",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3700,
+    "Descripcion": "�toyota hilux 4x4 doble cabina 2016",
+    "Legajo": "AA952KR",
+    "Dominio": "AA-952-KR",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4266,
+    "Descripcion": "�CHEVROLET S10 2.8 TD 4X4 LS DOBLE CABINA-2017",
+    "Legajo": "AA998AS",
+    "Dominio": "AA-998-AS",
+    "Pasajeros": 5,
+    "": "INAR VIAL S.A",
+    "__1": "OBRA DE CONSERVACI�N MEJORATIVA - RUTA NACIONAL N�12-CERRITO (R.P.N�8) - LA PAZ (R.P. - ENTRE R�OS-"
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3415,
+    "Descripcion": "�TOYOTA HILUX 4X4",
+    "Legajo": "AB152HM",
+    "Dominio": "AB-152-HM",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4604,
+    "Descripcion": "�SVEIRO VW NAFTA 2017",
+    "Legajo": "AB219GY",
+    "Dominio": "AB-219-GY",
+    "Pasajeros": 2,
+    "": "LUIS LOSI S.A-",
+    "__1": "SERVICIO DE PROVISI�N DE MEZCLA ASFALTICA PARA RUTAS NACIONALES"
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3390,
+    "Descripcion": "�peugeot partner",
+    "Legajo": "AB235AK",
+    "Dominio": "AB-235-AK",
+    "Pasajeros": 2,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2957,
+    "Descripcion": "�pick up toyota hilux",
+    "Legajo": "AB333DM",
+    "Dominio": "AB-333-DM",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4570,
+    "Descripcion": "�TOYOTA HILUX 4X4 D/C DX 2.4 TDI 6 M/T-2007",
+    "Legajo": "AB700ST",
+    "Dominio": "AB-700-ST",
+    "Pasajeros": 5,
+    "": "CPC S. A. - ROVELLA CARRANZA S.A. - UTE",
+    "__1": "AUTOV�A RN N� 18, TRAMO II - COLECTORAS PAVIMENTADAS - INTERSECCI�N RP N� 20."
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2024,
+    "Descripcion": "�PEUGEOT 408 FELINE 1.6 HDI",
+    "Legajo": "AB777CV",
+    "Dominio": "AB-777-CV",
+    "Pasajeros": 5,
+    "": "LUIS LOSI S.A.",
+    "__1": "OBRA DE CONSERVACI�N MEJORATIVA - RUTA NACIONAL N�127 - ENTRE R�OS"
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3447,
+    "Descripcion": "�TOYOTA HILUX",
+    "Legajo": "AB787BC",
+    "Dominio": "AB-787-BC",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3273,
+    "Descripcion": "�peugeot 408",
+    "Legajo": "AC374IL",
+    "Dominio": "AC-374-IL",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2512,
+    "Descripcion": "�volkswagen amarok",
+    "Legajo": "AC374IN",
+    "Dominio": "AC-374-IN",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3375,
+    "Descripcion": "�renault oroch - doble cabina",
+    "Legajo": "AC538QA",
+    "Dominio": "AC-538-QA",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3398,
+    "Descripcion": "�fiat fiorino",
+    "Legajo": "AC710LC",
+    "Dominio": "AC-710-LC",
+    "Pasajeros": 2,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3429,
+    "Descripcion": "�TOYOTA HILUX 4X4",
+    "Legajo": "AC717TR",
+    "Dominio": "AC-717-TR",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2785,
+    "Descripcion": "�ranger",
+    "Legajo": "AC869LG",
+    "Dominio": "AC-869-LG",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3518,
+    "Descripcion": "�hillux toyota 4x4",
+    "Legajo": "AC958KW",
+    "Dominio": "AC-958-KW",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4543,
+    "Descripcion": "�TOYOTA-COROLLA XEI PACK 1.8 6M/T-",
+    "Legajo": "AC963FI",
+    "Dominio": "AC-963-FI",
+    "Pasajeros": 5,
+    "": "CLEANOSOL ARGENTINA SOCIEDAD AN�NIMA, INDUSTRIAL, COMERCIAL, FINANCIERA E INMOBILIARIA",
+    "__1": "RENOVACI�N Y MEJORAMIENTO DEL SE�ALAMIENTO VERTICAL LATERAL Y A�REO EN RUTAS NACIONALES VARIAS"
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3492,
+    "Descripcion": "�toyota hillux",
+    "Legajo": "AD038UE",
+    "Dominio": "AD-038-UE",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3181,
+    "Descripcion": "�kangoo utilitario",
+    "Legajo": "AD646CZ",
+    "Dominio": "AD-646-CZ",
+    "Pasajeros": 2,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3179,
+    "Descripcion": "�Kangoo Utilitario",
+    "Legajo": "AD675ZJ",
+    "Dominio": "AD-675-ZJ",
+    "Pasajeros": 2,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3358,
+    "Descripcion": "�toyota hilux",
+    "Legajo": "AD842BO",
+    "Dominio": "AD-842-BO",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3901,
+    "Descripcion": "�CHEVROLET TRACKER 1.8 LTZ 4X4 AUT-2020",
+    "Legajo": "AD989IB",
+    "Dominio": "AD-989-IB",
+    "Pasajeros": 4,
+    "": "AUTOV�A RN N� 18; TRAMO II: COLECTORAS PAVIMENTADAS - INTERSECCI�N RP N� 20.-",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3899,
+    "Descripcion": "�CHEVROLET PU S10 2.8TD4X2 DC LS-2020",
+    "Legajo": "AD991IV",
+    "Dominio": "AD-991-IV",
+    "Pasajeros": 4,
+    "": "",
+    "__1": "AUTOV�A RN N� 18; TRAMO II: COLECTORAS PAVIMENTADAS - INTERSECCI�N RP N� 20.-"
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4330,
+    "Descripcion": "� CAMIONETA DOBLE CABINA- FORD RANGER XLS",
+    "Legajo": "AE381JP",
+    "Dominio": "AE-381-JP",
+    "Pasajeros": 5,
+    "": "SACDE S.A.",
+    "__1": "RUTA NACIONAL N� 18 - TRAMO 3: INTERSECCI�N RPN� 20 - ARROYO SANDOVAL"
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3789,
+    "Descripcion": "�FORD Blanca, doble cabina",
+    "Legajo": "AE381JQ",
+    "Dominio": "AE-381-JQ",
+    "Pasajeros": 5,
+    "": "SACDE",
+    "__1": "R.N. N�18 TRAMO 3"
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3408,
+    "Descripcion": "�HILUX TOYOTA 4 X 4",
+    "Legajo": "AE440OB",
+    "Dominio": "AE-440-OB",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3418,
+    "Descripcion": "�AMAROK",
+    "Legajo": "AE440OC",
+    "Dominio": "AE-440-OC",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4163,
+    "Descripcion": "�TOYOTA HILUX 4 X 4 DC DX 2.4 TDI 6 MT - 2021",
+    "Legajo": "AE725YY",
+    "Dominio": "AE-725-YY",
+    "Pasajeros": 5,
+    "": "LUIS LOSI S.A",
+    "__1": "RUTA NACIONAL N�127 -TRAMO: A.FEDERAL - LTE ENTRE R�OS / CORRIENTES SECCI�N: KM 228.66 KM 260.37"
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4202,
+    "Descripcion": "� AUTOMOVIL BLANCO-RENAULT-, 1.6, -LOGAN",
+    "Legajo": "AE800MZ",
+    "Dominio": "AE-800-MZ",
+    "Pasajeros": 5,
+    "": "NORVIAL",
+    "__1": "ENSENADA"
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4168,
+    "Descripcion": "� NISSAN FRONTIER 4X2 DOBLE CABINA-2023",
+    "Legajo": "AF428FW",
+    "Dominio": "AF-428-FW",
+    "Pasajeros": 5,
+    "": "CONTRATISTA CONCRET NOR S.A",
+    "__1": "R.N. N� 136 TRAMO INTR. R.P. N� 20 INICIO VIADUCTO INTERNACIONAL"
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4193,
+    "Descripcion": "�TOYOTA HILUX 4X2-DC DX 2.4 BLANCA CAB/DOBLE-",
+    "Legajo": "AF533UF",
+    "Dominio": "AF-533-UF",
+    "Pasajeros": 5,
+    "": "EMPRESA NORVIAL",
+    "__1": "ENSENADARN N 131"
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4162,
+    "Descripcion": "�TOYOTA HILUX 4 X 4 DC SRV 2.8 TDI 6 AT- 2022",
+    "Legajo": "AF581CZ",
+    "Dominio": "AF-581-CZ",
+    "Pasajeros": 5,
+    "": "LUIS LOSI S.A",
+    "__1": "OBRA DE CONSERVACI�N MEJORATIVA - RUTA NACIONAL N�127 - ENTRE R�OS TRAMO: A.FEDERAL - LTE ENTRE R�OS"
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4167,
+    "Descripcion": "�RENAULT ALASKAN 4X2 DOBLE CABINA- 2023",
+    "Legajo": "AF694WN",
+    "Dominio": "AF-694-WN",
+    "Pasajeros": 5,
+    "": "CONTRATISTA PIETROBONI S.A - PITON S.A",
+    "__1": "MALLA 513 R.N. N� 12 TRAMO ACC. A GALARZA INTER. R.N. N� 131"
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4533,
+    "Descripcion": "�TOYOTA HILUX",
+    "Legajo": "AF975EZ",
+    "Dominio": "AF-975-EZ",
+    "Pasajeros": 5,
+    "": "CONCRET NOR S.A.",
+    "__1": "RN 136, TRAMO: EMP. RPN� 20 - COMIENZO VIADUCTO PUENTE INTERNACIONAL"
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4282,
+    "Descripcion": "�MODELO: FRONTIER S 4X4 - NISSAN",
+    "Legajo": "AF985WU",
+    "Dominio": "AF-985-WU",
+    "Pasajeros": 5,
+    "": "",
+    "__1": "CONEXI�N VIAL ACCESO A PARQUE INDUSTRIAL DE PARAN� POR CALLE HERNANDARIAS"
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4255,
+    "Descripcion": "�NISSAN PICK - UP, DOBLE CAB.,FRONTIER 4.2",
+    "Legajo": "AF985WX",
+    "Dominio": "AF-985-WX",
+    "Pasajeros": 5,
+    "": "EMPRESA NORVIAL",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 4387,
+    "Descripcion": "�NISSAN FRONTIER S 4X2 MT 2.3 D CD-2023",
+    "Legajo": "AG139CN",
+    "Dominio": "AG-139-CN",
+    "Pasajeros": 5,
+    "": "INAR VIAL S.A",
+    "__1": "OBRA DE CONSERVACI�N MEJORATIVA - RUTA NACIONAL N�12 - ENTRE R�OS"
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3564,
+    "Descripcion": "�toyota hillux 4x4",
+    "Legajo": "BA152HM",
+    "Dominio": "BA-152-HM",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3436,
+    "Descripcion": "�amarok",
+    "Legajo": "EKL614",
+    "Dominio": "EKL-614",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3143,
+    "Descripcion": "�CAMIONETA",
+    "Legajo": "ELJ777",
+    "Dominio": "ELJ-777",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2506,
+    "Descripcion": "",
+    "Legajo": "EYI481",
+    "Dominio": "EYI-481",
+    "Pasajeros": 4,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2052,
+    "Descripcion": "",
+    "Legajo": "JSO459",
+    "Dominio": "JSO-459",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3209,
+    "Descripcion": "�RANGER DOBLE CABINA 4 X 2",
+    "Legajo": "KCQ564",
+    "Dominio": "KCQ-564",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2001,
+    "Descripcion": "�VOLKSWAGEN AMAROK",
+    "Legajo": "KNJ484",
+    "Dominio": "KNJ-484",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1998,
+    "Descripcion": "�VOLKSWAGEN AMAROK",
+    "Legajo": "KQG026",
+    "Dominio": "KQG-026",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2845,
+    "Descripcion": "�camioneta",
+    "Legajo": "LDH911",
+    "Dominio": "LDH-911",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2523,
+    "Descripcion": "�camioneta",
+    "Legajo": "LDQ674",
+    "Dominio": "LDQ-674",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1997,
+    "Descripcion": "�CHEVROLET CRUZE",
+    "Legajo": "LXF987",
+    "Dominio": "LXF-987",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3166,
+    "Descripcion": "�camioneta",
+    "Legajo": "MLR897",
+    "Dominio": "MLR-897",
+    "Pasajeros": 2,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2911,
+    "Descripcion": "�pick up ranger doble cabina",
+    "Legajo": "NBL117",
+    "Dominio": "NBL-117",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3196,
+    "Descripcion": "�ranger doble cabina",
+    "Legajo": "NTO228",
+    "Dominio": "NTO-228",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 3182,
+    "Descripcion": "�fluence renault",
+    "Legajo": "NUW485",
+    "Dominio": "NUW-485",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1996,
+    "Descripcion": "�CAMIONETA",
+    "Legajo": "OKR890",
+    "Dominio": "OKR-890",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2042,
+    "Descripcion": "",
+    "Legajo": "OUE082",
+    "Dominio": "OUE-082",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 1999,
+    "Descripcion": "�PEUGEOT",
+    "Legajo": "PGC516",
+    "Dominio": "PGC-516",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2014,
+    "Descripcion": "",
+    "Legajo": "PKL614",
+    "Dominio": "PKL-614",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  },
+  {
+    "Distrito": "Entre R�os",
+    "ID": 2607,
+    "Descripcion": "�CHEVROLET CORSA",
+    "Legajo": "PQT384",
+    "Dominio": "PQT-384",
+    "Pasajeros": 5,
+    "": "",
+    "__1": ""
+  }
+]
