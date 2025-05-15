@@ -1,0 +1,44 @@
+{
+  "Buenos Aires": [
+    "La Plata",
+    "Mar del Plata",
+    "Bahía Blanca",
+    "Tandil",
+    "Olavarría",
+    "Pergamino",
+    "Luján",
+    "Olivos",
+    "San Isidro"
+  ],
+  "Córdoba": [
+    "Córdoba",
+    "Villa Carlos Paz",
+    "Río Cuarto",
+    "Villa María",
+    "Jesús María",
+    "Alta Gracia",
+    "Río Tercero"
+  ],
+  "Entre Ríos": [
+    "Paraná",
+    "Concordia",
+    "Gualeguaychú",
+    "Viale",
+    "Villaguay",
+    "Concepción del Uruguay",
+    "Diamante"
+  ],
+  "Santa Fe": [
+    "Rosario",
+    "Santa Fe",
+    "Rafaela",
+    "Venado Tuerto",
+    "Reconquista"
+  ],
+  "Mendoza": [
+    "Mendoza",
+    "San Rafael",
+    "Godoy Cruz",
+    "Luján de Cuyo"
+  ]
+}
